@@ -106,10 +106,10 @@
     },
     {
       "uuid": "48c66841-208c-46a7-8992-1e84a2eda9e2",
-      "description": "Blue, grey, white, red, and brown",
+      "description": "Blue, grey, white, brown, and brown",
       "property": "label",
       "input": {
-        "colors": ["blue", "grey", "white", "red", "brown"]
+        "colors": ["blue", "grey", "white", "brown", "brown"]
       },
       "expected": {
         "value": 6.89,
